@@ -1,7 +1,7 @@
 Laravel4_and_MultilayerCache
 ============================
 
-An integration of Laravel 4 and an external cache library 
+An integration of Laravel 4 and an open source external cache library 
 
 1. Laravel 4  (http://laravel.com/)
 2. Scipilot LayerCache Library (https://bitbucket.org/scipilot/layercache) 
