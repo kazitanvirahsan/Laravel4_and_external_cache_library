@@ -7,8 +7,8 @@ An integration of
 2. Scipilot LayerCache Library (https://bitbucket.org/scipilot/layercache) 
 
 Fast response using this library:
-    ![ScreenShot](https://raw.github.com/kazitanvirahsan/master/Laravel4_and_Scipilot_Layercache
-/master/layercache.png)
+    ![ScreenShot](https://raw.github.com/kazitanvirahsan/master/
+Laravel4_and_Scipilot_Layercache / layercache.png)
 
 Prepared and Developed By Kazi T Ahsan
 
