@@ -1,0 +1,7 @@
+<phpunit
+>
+<php>
+  <env name="SP_TEST_DATABASE_USERNAME" value="testuser" />
+  <env name="SP_TEST_DATABASE_PASSWORD" value="testpass" />
+</php>
+</phpunit >
